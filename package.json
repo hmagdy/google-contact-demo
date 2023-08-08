@@ -1,0 +1,14 @@
+{
+  "name": "google-contacts-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/local-auth": "2.1.0",
+    "express": "^4.18.2",
+    "google-auth-library": "^8.7.0",
+    "googleapis": "105",
+    "http-server": "^14.1.1",
+    "pug": "^3.0.2"
+  }
+}
